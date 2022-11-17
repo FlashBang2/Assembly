@@ -1,0 +1,9 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 001F5H 001F6H PROGR              
+ 00200H 0026AH 0006BH DANE               
+ 00270H 0046FH 00200H STOSIK             
+
+Program entry point at 0000:0000
+
